@@ -27,7 +27,6 @@ class CopyLibFile(install):
 
 
 
-
 setup(
     name='pangolin',
     version=__version__,
